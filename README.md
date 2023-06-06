@@ -17,5 +17,5 @@ You may also see any lint errors in the console.
 ### `npx json-server --watch src/movielist.json --port 3003 `
 Runs json web server and cards get movie list in here.
 
-# You can search movies and delete from list.
+You can search movies and delete from list.
 
