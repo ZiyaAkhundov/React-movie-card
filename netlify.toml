@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build && npx json-server --watch src/movielist.json --port 3003"
+  publish = "build"
